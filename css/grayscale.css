@@ -1,3 +1,9 @@
+* {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -ms-user-select: none; }
+
 #mainNav {
   min-height: 56px;
   background-color: #fff; }
